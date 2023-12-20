@@ -81,6 +81,8 @@ Articles
 Literature is the original Internet – every footnote, every citation, every allusion is essentially a hyperlink to another text, to another mind.[^1]
 
 [^1]: Attributed to Maria Popova
+
+
 | Sepal Length| Sepal Width| Petal Length| Petal Width|      Species |
 
 |-----------------:|----------------:|-----------------:|---------------:|:---------------|
@@ -92,11 +94,13 @@ Literature is the original Internet – every footnote, every citation, every al
 |                 6.1|                2.8|                 4.7|               1.2|   versicolor |
 
 |                 6.1|                3.0|                 4.6|               1.4|  versicolor |
+
 ---
 
 ***
 
 ___
+
 Writing one line,
 
 then another without a break,
