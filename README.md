@@ -11,7 +11,7 @@ $e^{\pi i} + 1 = 0$
 > Without data you're just
 
 > another person with an opinion
-> ```
+```
 
 x = (1 + sqrt(5)) / 2
 
