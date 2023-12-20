@@ -12,9 +12,7 @@ $e^{\pi i} + 1 = 0$
 
 > another person with an opinion
 ```
-
 x = (1 + sqrt(5)) / 2
-
 ```
 ``` python
 
